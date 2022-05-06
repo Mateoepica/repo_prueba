@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'meatnbone-muestra'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7507FB13B265456F9C917A5C39586895 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B0504E7379A41D4AB558A5BC89C9790 }}
